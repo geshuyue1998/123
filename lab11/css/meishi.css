@@ -1,31 +1,38 @@
 
 .yi{
-    margin-top:50px;
+    margin-top:45px;
     margin-left:180px;
      width:1000px;
     height:220px;
    
 }
 .er{
-    margin-top:20px;
+    margin-top:18px;
     margin-left:180px;
      width:1000px;
     height:220px;
     
 }
 .san {
-    margin-top:20px;
+    margin-top:10px;
     margin-left:180px;
-     width:1000px;
+    width:1000px;
     height:220px;
    
 }
 .si{
-    margin-top:20px;
+    margin-top:-10px;
     margin-left:180px;
-     width:1000px;
+    width:1000px;
     height:220px;
     
+}
+.wu{
+    margin-top:-5px;
+    margin-left:185px;
+    width:885px;
+    height:250px;
+    background-image: url(../images/beijing3.jpg);
 }
 .mianbao{
     color:red;
@@ -34,6 +41,31 @@
     margin-left:150px;
     list-style:none;
 }
+.dan{
+    width:150px;
+}
+.luiyanban{ 
+    width:2000px; 
+    background-image: url(../images/beijing3.jpg);}
+.chongzhi{ 
+    width:100px; 
+    height:20px; 
+    border:#CCCCCC 1px solid; 
+    border-radius:5px;
+    background:#e8e6e5; margin:10px;}
+
+.luiyanban{ 
+    width:500px; 
+    margin:0 auto; 
+    padding-bottom:0px;}
+.luiyanban_z .xingbei{ margin:10px; }
+.luiyanban_z .xingqu{ margin:10px;}
+.luiyan{
+     width:490px; 
+     height:80px; 
+     border:#dcc6ba 1px solid;
+     padding:5px; }
+
 .imgage
         {
             margin:6px;
